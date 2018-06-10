@@ -8,3 +8,4 @@ pkg
 output
 rdoc
 site/_generated
+*.gem
